@@ -3,9 +3,7 @@ import java.util.Scanner;
       public static void main(String args[]) {
           
 
-    //11. A prefeitura do Rio de Janeiro abriu uma linha de crédito para os funcionários municipais. O valor máximo da prestação não 
-    //poderá ultrapassar 30% do salário bruto. Fazer um algoritmo que permita entrar com o salário bruto e o valor da prestação e 
-    //informar se o empréstimo pode ou não ser concedido.
+    //11. A prefeitura do Rio de Janeiro abriu uma linha de crédito para os funcionários municipais. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Fazer um algoritmo que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
     
 Scanner input = new Scanner(System.in);
 System.out.println("Informe seu salário bruto: ");
