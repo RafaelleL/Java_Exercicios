@@ -2,8 +2,7 @@ import java.util.Scanner;
 public class Lista01_01 {
     public static  void main(String args[]) {
         
-    // 1- A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as 
-    //dimensões de um terreno e depois exibir a área do terreno.
+    // 1- A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as dimensões de um terreno e depois exibir a área do terreno.
         
         
       double b,h;
